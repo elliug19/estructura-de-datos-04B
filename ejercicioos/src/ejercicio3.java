@@ -1,3 +1,12 @@
+/*Un sensor industrial registra temperaturas. El sistema recibe:
+
+Temperatura actual en Celsius ( double)
+Nombre del sensor ( String)
+Número de lectura ( int)
+Si la temperatura supera el límite de 80°C, debe ser una boolean llamada variable en Alarmatrue
+Imprime el estado del sensor con todos sus datos.
+
+ */
 public class ejercicio3 {
     public static void main(String[] args) {
         double tempcel = 121.0;

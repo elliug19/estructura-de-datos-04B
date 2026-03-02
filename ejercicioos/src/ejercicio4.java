@@ -1,4 +1,13 @@
-public class ejercicio4 {
+
+/*El RUNT almacena datos básicos de vehículos. Modela la información de un carro con:
+
+Placa ( String)
+Año de fabricación ( int)
+Cilindraje en cc ( int)
+Precio de compra ( double)
+Inicial del color ( char)
+Si tiene SOAT vigente ( boolean)
+Muestra todos los datos en consola. */public class ejercicio4 {
     public static void main(String[] args) {
         String placa = "1234-0109";
         int añoFabricacion = 2009;
